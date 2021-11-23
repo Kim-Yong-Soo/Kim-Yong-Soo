@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Kim YongSoo. Nice to meet you! 👋
 
 <!--
 **Kim-Yong-Soo/Kim-Yong-Soo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
